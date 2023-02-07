@@ -1,0 +1,226 @@
+@media (min-width: 1024px){
+	body{
+			background: rgb(2,0,36);
+			background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(158,89,120,1) 46%, rgba(0,212,255,1) 100%);
+		}
+		h1{
+			background: orange;
+			border-radius: 20px;
+			color: white;
+			height: 50px;
+			width: 400px;
+			margin-left: 37%;
+			padding: 40px;
+			font: oblique bold 120% cursive;
+			font-size: 30px;
+		}
+		.primer{
+			background: #10ACFA;
+			padding: 20px;
+			width: 500px;
+			color: white;
+			border-radius: 20px;
+			font: oblique bold 120% cursive;
+			margin-top: 40px;
+			margin-left: 70px;
+			font-size: 20px;
+		}
+		.segundo{
+			background: #896FC6;
+			padding: 20px;
+			width: px;
+			color: white;
+			border-radius: 20px;
+			font: oblique bold 120% cursive;
+			margin-left: 68%;
+			margin-top: -490px;
+			font-size: 20px;
+			height: ;
+		}
+		.estilo{
+			background: #10ACFA;
+			color: white;
+			width: px;
+			padding: 20px;
+			margin-top: -20px;
+			margin-left: 100px;
+			border-radius: 20px;
+			height: 30px;
+			font-size: 20px;
+			font: oblique bold 120% cursive;
+		}
+		.img2{
+			height: 200px;
+			margin-left: 230px;
+			margin-top: 50px
+		}
+	/*	div{
+	width: 1300px;
+	padding: 29px 0;
+	margin: 0;
+	display: flex;
+   }*/
+
+   .img1{
+   	height: 200px;
+   	margin-top: -320px;
+   	margin-left: 50%;
+   }
+   .img3{
+   	height: 200px;
+   	margin-left: 150px;
+   }
+   .estilistica{
+   	background: #896FC6;
+			color: white;
+			width: px;
+			padding: 20px;
+			margin-top: -320px;
+			margin-left: 130px;
+			border-radius: 20px;
+			height: 30px;
+			font-size: 20px;
+			font: oblique bold 120% cursive;
+			position: absolute;
+   }
+}
+
+@media (min-width:  768px) and (max-width:  1023px){
+	h1{
+		background-color: orange;
+		border-radius: 20px;
+		width: 200px;
+		padding: 20px;
+		margin-left: 40%;
+		color: white;
+	}
+	body{
+			background: rgb(2,0,36);
+			background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(158,89,120,1) 46%, rgba(0,212,255,1) 100%);
+		}
+
+	.primer{
+			background: #10ACFA;
+			padding: 20px;
+			width: 500px;
+			color: white;
+			border-radius: 20px;
+			font: oblique bold 120% cursive;
+			margin-top: 40px;
+			margin-left: 70px;
+			font-size: 20px;
+		}
+
+		.segundo{
+			background: #896FC6;
+			padding: 20px;
+			width: px;
+			color: white;
+			border-radius: 20px;
+			font: oblique bold 120% cursive;
+			margin-left: 68%;
+			margin-top: -380px;
+			font-size: 20px;
+			height: ;
+		}
+
+		.estilistica{
+   	background: #896FC6;
+			color: white;
+			width: px;
+			padding: 20px;
+			margin-top: -320px;
+			margin-left: 130px;
+			border-radius: 20px;
+			height: 30px;
+			font-size: 20px;
+			font: oblique bold 120% cursive;
+			position: absolute;
+   }
+   img{
+   	width: 150px
+   }
+   .estilo{
+			background: #10ACFA;
+			color: white;
+			width: px;
+			padding: 20px;
+			margin-top: -20px;
+			margin-left: 100px;
+			border-radius: 20px;
+			height: 30px;
+			font-size: 20px;
+			font: oblique bold 120% cursive;
+		}
+}
+
+@media (max-width:  767px){
+
+h1{
+		background-color: orange;
+		border-radius: 20px;
+		width: 200px;
+		padding: 20px;
+		margin-left: 40%;
+		color: white;
+	}
+	body{
+			background: rgb(2,0,36);
+			background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(158,89,120,1) 46%, rgba(0,212,255,1) 100%);
+		}
+
+	.primer{
+			background: #10ACFA;
+			padding: 20px;
+			width: 500px;
+			color: white;
+			border-radius: 20px;
+			font: oblique bold 120% cursive;
+			margin-top: 40px;
+			margin-left: 70px;
+			font-size: 20px;
+		}
+
+		.segundo{
+			background: #896FC6;
+			padding: 20px;
+			width: 80%;
+			color: white;
+			border-radius: 20px;
+			font: oblique bold 120% cursive;
+			margin-left: 20px;
+			margin-top: 3px;
+			font-size: 20px;
+			height: ;
+		}
+
+		.estilistica{
+   	background: #896FC6;
+			color: white;
+			width: px;
+			padding: 20px;
+			margin-top: 75px;
+			margin-left: ;
+			border-radius: 20px;
+			height: 30px;
+			font-size: 20px;
+			font: oblique bold 120% cursive;
+			position: absolute;
+   }
+   img{
+   	width: 150px
+   }
+   .estilo{
+			background: #10ACFA;
+			color: white;
+			width: px;
+			padding: 20px;
+			margin-top: -20px;
+			margin-left: 100px;
+			border-radius: 20px;
+			height: 30px;
+			font-size: 20px;
+			font: oblique bold 120% cursive;
+		}
+
+}
